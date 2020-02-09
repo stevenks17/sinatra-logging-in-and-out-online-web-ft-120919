@@ -34,4 +34,3 @@ class ApplicationController < Sinatra::Base
     redirect to '/'
   end
 end
-© 2020 GitHub, In
